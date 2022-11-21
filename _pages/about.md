@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 UNDER CONSTRUCTION...
-This is Niccolo biography here6. 
+This is Niccolo biography here7. 
 
 You can also disable any these elements by editing `profile` property of the YAML header 
 of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will 
