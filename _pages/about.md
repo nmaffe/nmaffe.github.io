@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This is Niccolo biography here5. 
+This is Niccolo biography here6. 
 
 You can also disable any these elements by editing `profile` property of the YAML header 
 of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will 
