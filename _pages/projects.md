@@ -5,9 +5,13 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories:
 horizontal: false
 ---
+<!-- NOTA: se vuoi che i progetti abbiano categorie modifica ad esempio la riga sopra cosi:
+display_categories: [work, fun]
+-->
+
 
 <!-- pages/projects.md -->
 <div class="projects">

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: www.icelearning.net
+title: ICELEARNING
+description: Artificial Intelligence techniques for ice core analyses
+img: assets/img/fig_icelearning.png
+redirect: http://www.icelearning.net
 importance: 3
 category: work
 ---
