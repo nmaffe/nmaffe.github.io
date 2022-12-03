@@ -34,7 +34,7 @@ Since 01/09/2022 I am PI of the <a href="https://www.climatechange.ai/blog/2022-
 project on glacier modeling using deep neural networks, at the National Research Council (Institute of Polar Sciences), in collaboration with the University of California, Irvine. 
 I am particularly passionate about deep learning and tackling Earth System Science problems using AI methodologies.
 
-**Please reach my email at niccolo [at] maffezzoli [dot] unive [dot] it.**
+**Please reach my email at niccolo [dot] maffezzoli [at] unive [dot] it.**
 
 <hr>
 
