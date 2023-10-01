@@ -8,15 +8,15 @@
     - name: Languages
       value: Italian, English, French
     - name: Email
-      value: niccolo.maffezzoli@unive.it
+      value: niccolo.maffezzoli@unive.it, nmaffezz@uci.edu
 
 - title: Experience
   type: time_table
   contents:
 
-    #- title: Marie-Curie Fellow
-    #  institution: University of California, Irvine and University of Venice
-    #  year: 2023 - 2026
+    - title: Marie-Curie Fellow
+      institution: University of Venice (postdoc) & University of California, Irvine (Assistant Specialist)
+      year: 2023 - now
 
     - title: Postdoc
       institution: Institute of Polar Sciences, National Research Council
