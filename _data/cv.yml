@@ -14,9 +14,13 @@
   type: time_table
   contents:
 
-    - title: Marie-Curie Fellow
-      institution: University of Venice (postdoc) & University of California, Irvine (Assistant Specialist)
+    - title: Marie-Curie Fellow (postdoc)
+      institution: University of California, Irvine & University of Venice
       year: 2023 - now
+      description:
+        - glacier modeling with deep learning / machine learning.
+        - project SKYNET
+        - <a href="https://github.com/nmaffe/iceboost">Repository ICEBOOST</a>
 
     - title: Postdoc
       institution: Institute of Polar Sciences, National Research Council
@@ -30,7 +34,7 @@
         #    - Sub-description 1.
         #    - Sub-description 2.
 
-    - title: Marie-Curie Fellow
+    - title: Marie-Curie Fellow (postdoc)
       institution: University of Venice, Italy
       year: 2020 - 2022
       description:
