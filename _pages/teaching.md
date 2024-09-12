@@ -32,7 +32,11 @@ Advanced methods in applied statistics (Niels Bohr Institute) - Prof. J. Koskine
   </tbody>
 </table>
 
-I also collaborated to the course <a href="https://www.nbi.dk/~petersen/Teaching/AppliedMachineLearning2021.html">
+I collaborated to the course <a href="https://www.nbi.dk/~petersen/Teaching/AppliedMachineLearning2021.html">
 Applied Machine Learning (Niels Bohr Institute)</a> in 2021, by providing the students with training datasets for ice 
-core particle image classification.  
+core particle image classification. 
+
+I collaborated to the course <a href="https://www.nbi.dk/~petersen/Teaching/AppliedMachineLearning2024.html">
+Applied Machine Learning (Niels Bohr Institute)</a> in 2024, by providing the students with training datasets for glacier 
+ice thickness regression. 
 
