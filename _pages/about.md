@@ -27,14 +27,20 @@ I did my PhD and a postdoc at the <a href="https://www.iceandclimate.nbi.ku.dk/"
 Copenhagen (Denmark) working on Continuous Flow Analysis systems and inductively coupled plasma mass spectroscopy
 for the detection of chemical tracers in ice cores for past sea ice reconstructions. 
 
-From 2020 to 2022 I carried out a Marie Curie Fellowship at the University of Venice with a project on
+From 2020 to 2022 I carried out a Marie Curie Fellowship at the University of Venice and University of Bergen with a project on
 Artificial Intelligence techniques applied to ice core analyses <a href="www.icelearning.net">(ICELEARNING)</a>. 
 
-Since 01/09/2022 I am PI of the <a href="https://www.climatechange.ai/blog/2022-10-03-grants-icenet">ICENET</a>
-project on glacier modeling using deep neural networks, at the National Research Council (Institute of Polar Sciences), in collaboration with the University of California, Irvine. 
-I am particularly passionate about deep learning and tackling Earth System Science problems using AI methodologies.
+From 2022 to 2023 I was PI of the <a href="https://www.climatechange.ai/blog/2022-10-03-grants-icenet">ICENET</a>,
+a pilot project on glacier modeling using deep neural networks, at the National Research Council (Institute of Polar Sciences), 
+in collaboration with the University of California, Irvine. From 2023 I was granted another Marie Curie project, SKYNET, 
+to calculate the ice volume of all the World's glaciers, using AI/ML, in collaboration with University of California 
+Irvine and the Jet Propulsion Laboratory. 
+The result are in discussion in the Geophysical Model Development journal, the code is publicly 
+available on <a href="https://github.com/nmaffe/iceboost">GitHub</a>.
 
-**Please reach my email at niccolo [dot] maffezzoli [at] unive [dot] it.**
+I am particularly passionate about deep learning and tackling Earth System Science problems using AI/ML methodologies.
+
+**Please reach my email at nmaffezz [at] uci [dot] edu**
 
 <hr>
 
