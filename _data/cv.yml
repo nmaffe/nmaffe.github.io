@@ -8,7 +8,7 @@
     - name: Languages
       value: Italian, English, French
     - name: Email
-      value: niccolo.maffezzoli@unive.it, nmaffezz@uci.edu
+      value: nmaffezz@uci.edu, niccolo.maffezzoli@unive.it
 
 - title: Experience
   type: time_table
