@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <h6><b>Institute of Polar Sciences, National Research Council</b></h6><h6><b>Department of Environmental Sciences, Informatics and Statistics, University of Venice<b></h6>
+subtitle: <h6><b>Department of Earth System Science, University of California Irvine</b></h6><h6><b>Department of Environmental Sciences, Informatics and Statistics, University of Venice<b></h6><h6><b>Institute of Polar Sciences, National Research Council</b></h6>
 profile:
   align: right
   image: foto_maffezzoli.jpg
