@@ -5,7 +5,7 @@ summary: "A Marie Curie prject at Ca' Foscari University of
 Venice (Italy) and Bergen University (Norway)."
 cover:
     image: "fig_icelearning.png"
-    alt: "Figure caption"
+    alt: "Figure Icelearning"
     relative: true
 ---
 
