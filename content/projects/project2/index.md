@@ -111,14 +111,14 @@ doi = {10.5194/gmd-18-2545-2025}
 The work has been supported by the EU Horizon Europe **Marie Sklodowska-Curie Actions** programme (Grant no. 101066651), 
 project SKYNET.
 
-<div style="display: flex; gap: 20px; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 100px; max-width: 150px;">
-    <img src="logo_unive.jpg" alt="logo_unive" style="width: 100%; height: auto; display: block;">
+<div style="display: flex; gap: 20px; justify-content: space-between; align-items: center; width: 100%; margin: 20px 0;">
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="logo_unive.jpg" alt="logo_unive" style="height: 100px; max-width: 100%; object-fit: contain; display: block;">
   </div>
-  <div style="flex: 1; min-width: 100px; max-width: 150px;">
-    <img src="logo_uci.png" alt="logo_uci" style="width: 100%; height: auto; display: block;">
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="logo_uci.png" alt="logo_uci" style="height: 150px; max-width: 100%; object-fit: contain; display: block;">
   </div>
-  <div style="flex: 1; min-width: 100px; max-width: 180px;">
-    <img src="logo_eu.png" alt="logo_eu" style="width: 100%; height: auto; display: block;">
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="logo_eu.png" alt="logo_eu" style="height: 100px; max-width: 100%; object-fit: contain; display: block;">
   </div>
 </div>

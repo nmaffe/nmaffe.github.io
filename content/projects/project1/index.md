@@ -118,7 +118,7 @@ under the **Marie Skłodowska-Curie grant** agreement no. 845115.
     <img src="logo_unive.jpg" alt="logo_unive" style="width: 100%; height: auto; display: block;">
   </div>
   <div style="flex: 1; min-width: 100px; max-width: 150px;">
-    <img src="logo_uci.jpg" alt="logo_uib" style="width: 100%; height: auto; display: block;">
+    <img src="logo_uib.jpg" alt="logo_uib" style="width: 100%; height: auto; display: block;">
   </div>
   <div style="flex: 1; min-width: 100px; max-width: 180px;">
     <img src="logo_eu.png" alt="logo_eu" style="width: 100%; height: auto; display: block;">
