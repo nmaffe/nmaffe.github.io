@@ -23,7 +23,7 @@ params:
     description: "This website hosts Niccolò Maffezzoli's information"
     author: Niccolò Maffezzoli
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2026"
+    DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
     disableThemeToggle: true

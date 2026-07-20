@@ -1,6 +1,6 @@
 ---
 title: "SKYNET - Estimating the ice volume of Earth’s glaciers via Artificial Intelligence and remote sensing"
-date: 2026-06-10
+date: "2026-06-10"
 summary: "A Marie Curie project at Ca' Foscari University of Venice (Italy) and University of California Irvine (United States)."
 cover:
     image: "fig_glacier_aletsch.png"
