@@ -116,7 +116,7 @@ project SKYNET.
     <img src="logo_unive.jpg" alt="logo_unive" style="height: 100px; max-width: 100%; object-fit: contain; display: block;">
   </div>
   <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="logo_uci.png" alt="logo_uci" style="height: 150px; max-width: 100%; object-fit: contain; display: block;">
+    <img src="logo_uci.png" alt="logo_uci" style="height: 100px; max-width: 100%; object-fit: contain; display: block;">
   </div>
   <div style="flex: 1; display: flex; justify-content: center;">
     <img src="logo_eu.png" alt="logo_eu" style="height: 100px; max-width: 100%; object-fit: contain; display: block;">
